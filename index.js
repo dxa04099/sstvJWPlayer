@@ -1,5 +1,5 @@
 import { Alert, Platform} from 'react-native';
-import JWPlayer from '../nativemodules/JWPlayer';
+import JWPlayer from './nativemodules/JWPlayer';
 
 export default class JWPlayerModule {
 
