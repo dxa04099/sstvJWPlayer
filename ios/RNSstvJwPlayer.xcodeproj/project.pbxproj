@@ -31,7 +31,7 @@
 		0D4984AB20C1A84B008D9346 /* JWPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWPlayerViewController.h; sourceTree = "<group>"; };
 		0D4984AC20C1A84B008D9346 /* JWPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JWPlayer.m; sourceTree = "<group>"; };
 		0D4984C920C1A895008D9346 /* JWPlayer_iOS_SDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = JWPlayer_iOS_SDK.framework; sourceTree = "<group>"; };
-		0D4984CB20C1A8FB008D9346 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../../JWPlayerPackage/ios/HelloJWPlayer/Info.plist; sourceTree = "<group>"; };
+		0DEFA50520C25F8400FE72A6 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		134814201AA4EA6300B7C361 /* libRNSstvJwPlayer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNSstvJwPlayer.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3E7B5881CC2AC0600A0062D /* RNSstvJwPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNSstvJwPlayer.h; sourceTree = "<group>"; };
 		B3E7B5891CC2AC0600A0062D /* RNSstvJwPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNSstvJwPlayer.m; sourceTree = "<group>"; };
@@ -68,7 +68,7 @@
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
-				0D4984CB20C1A8FB008D9346 /* Info.plist */,
+				0DEFA50520C25F8400FE72A6 /* Info.plist */,
 				0D4984AA20C1A84B008D9346 /* JWPlayer.h */,
 				0D4984AC20C1A84B008D9346 /* JWPlayer.m */,
 				0D4984AB20C1A84B008D9346 /* JWPlayerViewController.h */,
